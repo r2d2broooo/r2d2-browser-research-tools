@@ -8,3 +8,5 @@ cleanup; shared.youtube_transcripts handles captions. Read each module's API.
 Desktop helpers require Linux/X11; browser helpers require a running CDP browser.
 Do not send messages, submit account changes or make purchases without an explicit
 task authorizing them. This toolkit starts no model and contains no trading engine.
+
+An optional systemd example is in systemd/. Configure its clone/venv paths before installing it. It is never enabled automatically.

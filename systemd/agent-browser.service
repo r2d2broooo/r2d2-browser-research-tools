@@ -1,0 +1,12 @@
+[Unit]
+Description=Dedicated Chrome browser for local automation
+After=graphical-session.target
+
+[Service]
+WorkingDirectory=%h/r2d2-browser-research-tools
+ExecStart=%h/r2d2-browser-research-tools/.venv/bin/python -m shared.agent_browser
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=default.target
