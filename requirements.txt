@@ -1,0 +1,5 @@
+playwright
+scrapling
+trafilatura
+beautifulsoup4
+yt-dlp

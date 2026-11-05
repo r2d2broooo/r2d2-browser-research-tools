@@ -1,0 +1,51 @@
+{
+  "exported_at": "2026-11-05T12:03:55Z",
+  "source_home": "<workspace>",
+  "repo": "r2d2-browser-research-tools",
+  "files": [
+    {
+      "source": "<workspace>/telegram-bots/shared/browser_client.py",
+      "path": "shared/browser_client.py",
+      "source_sha256": "582d4092dc37d6749f2de2267d7e73bb3b89e4097f6688e1c2e2e84dd39b6b57",
+      "export_sha256": "582d4092dc37d6749f2de2267d7e73bb3b89e4097f6688e1c2e2e84dd39b6b57"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/scrape_client.py",
+      "path": "shared/scrape_client.py",
+      "source_sha256": "cf765a5e76b90d92aa549073cef3e1bd3315fefea13ecaa49d0c117db7b28962",
+      "export_sha256": "cf765a5e76b90d92aa549073cef3e1bd3315fefea13ecaa49d0c117db7b28962"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/clean_extract.py",
+      "path": "shared/clean_extract.py",
+      "source_sha256": "b74a2d168d74b671ffe157ca2e6322e95b74ff7911b3f025b0e2487df295fc51",
+      "export_sha256": "b74a2d168d74b671ffe157ca2e6322e95b74ff7911b3f025b0e2487df295fc51"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/youtube_transcripts.py",
+      "path": "shared/youtube_transcripts.py",
+      "source_sha256": "c14ed58f25736e4975d0e09170de6e60db4501a8cc04a0230383ec81f3f061b7",
+      "export_sha256": "c14ed58f25736e4975d0e09170de6e60db4501a8cc04a0230383ec81f3f061b7"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/agent_browser.py",
+      "path": "shared/agent_browser.py",
+      "source_sha256": "dab63f115a6d5357568fc3a59e45eea7a531f90464659ce15c816aeb8a2c955c",
+      "export_sha256": "dab63f115a6d5357568fc3a59e45eea7a531f90464659ce15c816aeb8a2c955c"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/desktop.py",
+      "path": "shared/desktop.py",
+      "source_sha256": "38d6019f769d8be9aa7569746a82bfef4ec9bcc92a65a454be45dd06bf63554b",
+      "export_sha256": "38d6019f769d8be9aa7569746a82bfef4ec9bcc92a65a454be45dd06bf63554b"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/screen_recorder.py",
+      "path": "shared/screen_recorder.py",
+      "source_sha256": "1aaf9174f83edaa30cef773069f3d69473a751d13a2844ef0e42c3fa492bbec0",
+      "export_sha256": "1aaf9174f83edaa30cef773069f3d69473a751d13a2844ef0e42c3fa492bbec0"
+    }
+  ],
+  "adaptations": "Toolkit copies may adapt absolute paths or remove optional cross-repo notification dependencies; source and export hashes expose this.",
+  "privacy": "Export sanitized: credentials/private runtime state excluded; personal email, workstation paths and literal IP addresses removed."
+}
